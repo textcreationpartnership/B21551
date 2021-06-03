@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edmond Griffin, esq; appellant. John Lingard, Respondent. The case of Edmond Griffin, esq; upon his appeal in Parliament.</title>
+            <author>Griffin, Edmond.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21551</idno><idno type="EEBO-CITATION">99887501</idno>
+  <idno type="VID">190476</idno>
+  <idno type="EEBO-PROQUEST">2240890993</idno>
+  
+            <idno type="STC">Wing E177aA</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[20]</idno>
+            <idno type="STC">ESTC R227772</idno>
+            <idno type="STC">ESTC R227774</idno>
+            <idno type="STC">ESTC R227776</idno>
+            <idno type="STC">ESTC R227772</idno>
+            <idno type="PROQUEST">ocm99887501</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887501e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190476)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[77])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Edmond Griffin, esq; appellant. John Lingard, Respondent. The case of Edmond Griffin, esq; upon his appeal in Parliament.</title>
+                  <author>Griffin, Edmond.</author>
+                  <author>Lingard, John, fl. 1695.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing CD-ROM, 1996.</note>
+                  <note>Concerning ownership of the Manor of Bartherton--Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Real property --  England --  Early works to 1800.</term>
+               <term type="topical_term">Estates (Law) --  Cases --  England --  Early works to 1800.</term>
+               <term type="topical_term">Land tenure --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190476:1"/>
+            <head>
+               <list>
+                  <item>Edmond Griffin, <hi>Esq; Apellant.</hi>
+                  </item>
+                  <item>John Lingard, <hi>Respondent.</hi>
+                  </item>
+               </list>
+               <hi>The CASE of</hi> EDMOND GRIFFIN, <hi>Esq; upon his Appeal in Parliament.</hi>
+            </head>
+            <p>
+               <hi>RIchard Griffin,</hi>
+               <note place="margin">July <hi>or</hi> August 1657.</note> the Appellants Father, in <hi>July</hi> or <hi>August</hi> 1657. conveys the Mannor of <hi>Bartherton,</hi> and all the Messuages and Lands therein to <hi>Jeffrey Minshall</hi> and his Heirs, and <hi>Edward Matthews</hi> and <hi>Henry Cole,</hi> who had prior Incumbrances joyned in the same Conveyance; and though there be 2100 <hi>l.</hi> or some such great Summ mentioned as the consideration; yet the same is defeazanced by <hi>Jeffrey Minshall</hi> to be a security only for 700 <hi>l.</hi> and on payment thereof to be reconveyed.</p>
+            <p>Before this Conveyance the Appellants Father,
+<note place="margin">May 25. 1655. <hi>Con<g ref="char:EOLhyphen"/>veyance to</hi> Edmond.</note>
+               <hi>viz. May</hi> 25. 1655. had conveyed parcel of the Premisses worth about 15 <hi>l. per annum,</hi> to <hi>Edmond Griffin</hi> his younger Brother, in recompence of 300 <hi>l.</hi> which he was to have for his portion wherewith the Premisses stood charged by a Deed made by the Appellants Grand<g ref="char:EOLhyphen"/>father; which Conveyance, though prior to <hi>Minshalls,</hi> yet was subsequent to <hi>Matthews</hi> and <hi>Coles</hi> Incumbrances, and <hi>Minshall</hi> had also agreed, that all the Farms in Leases should be exempt from his Security; and though there were Words in his Conveyance to comprehend them, yet that was to take the Estate out of <hi>Matthews</hi> and <hi>Cole,</hi> and therefore to prevent future mistakes.</p>
+            <p>
+               <hi>Jeffrey Minshall,</hi>
+               <note place="margin">Nov. 5. 1657. <hi>De<g ref="char:EOLhyphen"/>feasanse of</hi> Edmonds <hi>Land; and the Leased Lands.</hi>
+               </note> by Deed under his Hand and Seal, dated the 5th day of <hi>November,</hi> 1657. declares and agrees that no Lands were intended to pass to him, but only such as were in the Actual Possession of <hi>Mathews,</hi> at the time o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Sealing his Conveyance; and that all Lands that were conveyed, or agreed to be conveyed to <hi>Edmond Griffin,</hi> in Lieu of his Portion, and all Lands then in Lease, should not be intended to pass by his Conveyance.</p>
+            <p>
+               <hi>Edmond Griffin</hi> accordingly enjoyed the Lands conveyed to him, and died about 20 years after; and then the same descended to the Appellant's Father, who enjoyed the same for his Life; and then they descended to the Appellant, who now enjoys the same, and the Rents and Services of the Leased Lands were enjoyed by the Appellant's Father for his Life, and by the Appellant since, who ought to have the Reversion thereof, as the Leases fall; which Enjoyment being near 40 years, makes a good Title though the Appellant had no other.</p>
+            <p>That about the year, 1658. <hi>Jeffrey Minshall</hi> died, and his Estate came to <hi>Randal</hi> his Brother, and from him to one <hi>William Collington;</hi> and during their respective Times, several Accounts were stated, and Agreements made about the Redemption of the Premisses; but by <hi>Minshall</hi> and <hi>Collington</hi>'s Contrivances, who aimed at the Estate, the same were rendred fruitless.</p>
+            <p>
+               <hi>Randal Minshall</hi> and <hi>Collington,</hi>
+               <note place="margin">Whatton<hi>'s Mortgage,</hi> 1680. 1683. Lingard <hi>had notice of the Appel<g ref="char:EOLhyphen"/>lants Title.</hi>
+               </note> in the year, 1680. mortgaged to <hi>Whatton</hi> for 600 <hi>l.</hi> and about 1683. <hi>Whatton</hi> assigns to the Respondent, who sets off some Debts of his own, and advances a little Money, and makes it up 1000 <hi>l.</hi> and in the year 1683. not only took notice of the Appellant's Father's Title, and exhi<g ref="char:EOLhyphen"/>bited his Bill against him; but in <hi>Easter-Term,</hi> 1684. had his Answer, whereby he set forth his Claims particularly.</p>
+            <p>Yet the Respondent,
+<note place="margin">August 1687. <hi>Account</hi>
+               </note> to clog the Estate, and make it not worth Redemption, pretends to advance further Money; And the 22d of <hi>August,</hi> 1687. an Account is pretended to be stated betwixt <hi>Collington</hi> and him; whereby <hi>Collington</hi> agrees, 1685. <hi>l.</hi> to be then due, and Charges the same on the Premisses to carry Interest from that time.</p>
+            <p>The Appellant's Father died,
+<note place="margin">
+                  <hi>Appellant's Father dyed,</hi> 1684. <hi>Appellant at Age</hi> 1689. <hi>Hearings</hi> Nov. 14. 1690.</note> 1684. and his Right descended to the Appellant, then an Infant, against whom the Cause was revived; and the Appellant in 1689. attained his Age, and exhibited his Cross-Bill in <hi>Easter-Term,</hi> 1690. Whereto the Respondent answers, and confesses he had notice of the Appellant's Father's Claim, when he had lent 1000 <hi>l.</hi>
+            </p>
+            <p>Both Causes came to Hearing, the 14th of <hi>November,</hi> 1690. and the Court declared there was no sufficient proof of Notice; and therefore if the Appellant would redeem, he ought to pay the Respondent his Principle and Interest, due on the foot of the last Account with <hi>Collington,</hi> with Costs both at Law and in that Court, and did Order and Decree that the Appellant should before the end of the Term, give his Answer to the Regi<g ref="char:EOLhyphen"/>ster, whether he would redeem on those Terms; and in the mean time ordered the Respondent to give him a Particular of his Demands.</p>
+            <p>By another order of the 15th. <hi>Decemb.</hi> 1690.
+<note place="margin">Dec. 15. 1690. <hi>his Bill dismissed.</hi>
+               </note> for default of the Appellants signing the Registers Book, to signifie his consent to redeem on the Terms aforesaid, his Bill is dismissed, and he decreed to make farther assurance of the Premisses mentioned to be conveyed to the Respondent, by his Conveyance and Deed of Mortgage, (wherein there are Words that comprehend both the Estate the Appellant hath, which was conveyed to <hi>Edmond Griffin</hi> for his Portion, and the Lands in Lease;) and this Appellant and his Tennants are now prosecuted for the same.
+<milestone type="tcpmilestone" unit="unspecified" n="I"/>
+               <note place="margin">Exceptions against the Decree.</note>
+            </p>
+            <p>The Notice is sufficient, and therefore the Appellant ought not to be charged with any Money advanced, after such notice; nor to be concluded by any account stated with <hi>Collington</hi> after that time.</p>
+            <p>The Appellant though he redeem,
+<milestone type="tcpmilestone" unit="unspecified" n="II"/> ought not to be charged with the Costs that the Respondent hath dis<g ref="char:EOLhyphen"/>burs'd, to support his own unjust pretensions; nor to be obliged to consent under his Hand to redeem on those Terms; neither ought his Bill for default thereof to be dismissed.</p>
+            <p>Though he redeem not the Premisses,
+<milestone type="tcpmilestone" unit="unspecified" n="III"/> he ought not to be compelled to make any assurance of the Lands con<g ref="char:EOLhyphen"/>veyed to his Uncle for his Portion, nor of the Leased Lands, these being exempt by the first Mortgagee, and the Appellant hath a good Title at Law to the same: And the Respondent is not deceived; for he is in possession of all that <hi>Minshall</hi> or <hi>Collington</hi> had, which was a sufficient security for what he had lent before notice.</p>
+            <p>That after the Respondent had got this Decree,
+<label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> he gave the Appellant a note of 2220 <hi>l.</hi> 3 <hi>s.</hi> 4 <hi>d</hi> which he claimed as due to him, though by his Answer, three Months before, he swears to 1850 <hi>l.</hi> only.</p>
+            <p>That the Appellants Father was kept constantly in Suits by <hi>Minshall</hi>'s contrivance,
+<label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> on purpose to disable him from redemption, and was so cheated in this matter, that he never had 300 <hi>l.</hi> of the 700 <hi>l.</hi> and yet hath lost the profit of the Estate above 30 years; and the Estate is above 100 <hi>l. per annum,</hi> and is 1000 <hi>l.</hi> worse then it was, by Felling and Selling of the Woods and Buildings, and other wast done by the Mortgagee, and those that claim under him.</p>
+            <pb facs="tcp:190476:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
